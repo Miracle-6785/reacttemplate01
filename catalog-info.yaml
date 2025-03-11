@@ -13,7 +13,7 @@ metadata:
     
 
     dependencytrack/project-id: ""
-    iap/app-info: ""
+    iap/app-info: "1/8d1a1e25-ef86-4429-9549-d96d49b064a2"
     backstage.io/techdocs-ref: dir:.
 
 spec:
